@@ -9,7 +9,7 @@ Generate easily metrics and trends data of your models for your dashboards.
 
 ```bash
 PHP ^8.2.x
-Laravel ^11.x
+Laravel ^13.x
 ```
 
 ## Installation
